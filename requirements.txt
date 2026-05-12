@@ -1,0 +1,23 @@
+# streamlit==1.37.1
+# chromadb==0.5.5
+# sentence-transformers==3.0.1
+# pandas==2.2.2
+# numpy==1.26.4
+# python-dotenv==1.0.1
+# google-genai
+# pyarrow==17.0.0
+# pillow==10.4.0
+# tensorflow==2.16.1
+# tf-keras==2.16.0
+
+streamlit==1.37.1
+chromadb==0.5.5
+sentence-transformers==3.0.1
+pandas==2.2.2
+numpy==1.26.4
+python-dotenv==1.0.1
+google-genai
+pyarrow
+pillow==10.4.0
+tensorflow==2.16.1
+tf-keras==2.16.0

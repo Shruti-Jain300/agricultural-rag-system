@@ -1,0 +1,163 @@
+# __pycache__/
+# .vscode/
+# .env
+# *.pyc
+# .ipynb_checkpoints/
+# frontend/.env
+# frontend/__pycache__/
+# backend/__pycache__/
+
+# Frontend/chroma_db/
+# Frontend/runtime_chroma_db/
+
+# .vscode/
+# .venv/
+# .venv312/
+# Frontend/.venv/
+# Frontend/.venv312/
+# __pycache__/
+# *.py[cod]
+# *.log
+# .ipynb_checkpoints/
+# app copy.py
+# runtime_chroma_db/
+# Frontend/runtime_chroma_db/
+# .env
+# .env.*
+# !.env.example
+# .vscode/
+# # =========================
+# # Python
+# # =========================
+# __pycache__/
+# *.py[cod]
+# *.pyo
+# *.pyd
+# *.pyc
+# .ipynb_checkpoints/
+
+# # =========================
+# # Virtual environments
+# # =========================
+# .venv/
+# venv/
+# venv312/
+# Frontend/.venv/
+# Frontend/.venv312/
+# Backend/.venv/
+
+# # =========================
+# # VS Code / Editor
+# # =========================
+# .vscode/
+# .idea/
+
+# # =========================
+# # Environment files
+# # =========================
+# .env
+# .env.*
+# !.env.example
+
+# # =========================
+# # OS files
+# # =========================
+# .DS_Store
+# Thumbs.db
+# desktop.ini
+
+# # =========================
+# # Streamlit / runtime temp
+# # =========================
+# Frontend/runtime_chroma_db/
+# runtime_chroma_db/
+# .streamlit/secrets.toml
+
+# # =========================
+# # Logs / temp
+# # =========================
+# *.log
+# tmp/
+# temp/
+
+# # =========================
+# # Jupyter
+# # =========================
+# .ipynb_checkpoints/
+
+# # =========================
+# # Build / test caches
+# # =========================
+# .pytest_cache/
+# .mypy_cache/
+# .ruff_cache/
+
+# # =========================
+# # Keep these tracked
+# # (DO NOT ignore these important project assets)
+# # =========================
+# # Frontend/chroma_db/
+# # Frontend/cotton_chroma_db/
+# # Frontend/data/
+# # Frontend/models/
+# # Frontend/Advisory/
+
+# __pycache__/
+# *.py[cod]
+# *.pyo
+# *.pyd
+# *.pyc
+# .ipynb_checkpoints/
+
+# .vscode/
+# .idea/
+
+# .venv/
+# venv/
+# venv312/
+# Frontend/.venv/
+# Frontend/.venv312/
+
+# .env
+# .env.*
+# !.env.example
+
+# .DS_Store
+# Thumbs.db
+# desktop.ini
+
+# Frontend/runtime_chroma_db/
+# runtime_chroma_db/
+
+# *.log
+# tmp/
+# temp/
+
+# .pytest_cache/
+# .mypy_cache/
+# .ruff_cache/
+
+# app copy.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment secrets
+.env
+.streamlit/secrets.toml
+
+# Training artifacts
+run_*/
+temp_*.py
+
+# OS
+.DS_Store
+Thumbs.db

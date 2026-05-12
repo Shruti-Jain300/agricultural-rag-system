@@ -1,0 +1,128 @@
+{
+  "Aphids": {
+    "crop": "Cotton",
+    "disease_name": "Aphids",
+    "symptoms": [
+      "Leaf curling",
+      "Sticky honeydew on leaves",
+      "Weak plant growth"
+    ],
+    "cause": "Sap-sucking pest infestation.",
+    "remedy": [
+      "Monitor infestation intensity",
+      "Use recommended insecticidal or bio-based management as per local advisory",
+      "Remove heavily infested parts where practical"
+    ],
+    "prevention": [
+      "Regular field scouting",
+      "Avoid excessive nitrogen imbalance",
+      "Encourage timely pest monitoring"
+    ],
+    "severity_note": "If infestation increases quickly, take expert guidance."
+  },
+
+  "Army worm": {
+    "crop": "Cotton",
+    "disease_name": "Army Worm",
+    "symptoms": [
+      "Holes in leaves",
+      "Chewing damage",
+      "Defoliation symptoms"
+    ],
+    "cause": "Larval feeding by army worm pest.",
+    "remedy": [
+      "Identify infestation stage early",
+      "Use recommended pest management under expert guidance",
+      "Monitor nearby plants for spread"
+    ],
+    "prevention": [
+      "Frequent scouting",
+      "Integrated pest management practices",
+      "Early control at larval stage"
+    ],
+    "severity_note": "Timely response is important to avoid major foliage loss."
+  },
+
+  "Bacterial Blight": {
+    "crop": "Cotton",
+    "disease_name": "Bacterial Blight",
+    "symptoms": [
+      "Angular leaf spots",
+      "Dark lesions",
+      "Drying and blighting of infected areas"
+    ],
+    "cause": "Bacterial infection, often favored by infected seed and humid conditions.",
+    "remedy": [
+      "Use disease-free seed in future planting",
+      "Remove severely infected plant debris",
+      "Follow recommended bactericide or field management practices under expert guidance"
+    ],
+    "prevention": [
+      "Field sanitation",
+      "Crop rotation",
+      "Use tolerant or resistant varieties where available"
+    ],
+    "severity_note": "Persistent spread may require local agronomy consultation."
+  },
+
+  "Healthy leaf": {
+    "crop": "Cotton",
+    "disease_name": "Healthy Leaf",
+    "symptoms": [
+      "No major visible disease symptoms detected"
+    ],
+    "cause": "Leaf appears healthy.",
+    "remedy": [
+      "No treatment required"
+    ],
+    "prevention": [
+      "Continue normal irrigation and field monitoring",
+      "Inspect regularly for pests and disease onset"
+    ],
+    "severity_note": "Maintain preventive crop care."
+  },
+
+  "Powdery Mildew": {
+    "crop": "Cotton",
+    "disease_name": "Powdery Mildew",
+    "symptoms": [
+      "White powdery growth on leaves",
+      "Reduced leaf health",
+      "Possible weakening of plant vigor"
+    ],
+    "cause": "Fungal disease under favorable environmental conditions.",
+    "remedy": [
+      "Remove heavily infected parts if practical",
+      "Use suitable fungicidal management under guidance",
+      "Reduce favorable moisture conditions around crop canopy"
+    ],
+    "prevention": [
+      "Regular scouting",
+      "Balanced nutrient management",
+      "Maintain healthy crop spacing where applicable"
+    ],
+    "severity_note": "Monitor continuously if infection begins to spread."
+  },
+
+  "Target spot": {
+    "crop": "Cotton",
+    "disease_name": "Target Spot",
+    "symptoms": [
+      "Circular to irregular brown spots",
+      "Leaf damage progression",
+      "Possible premature leaf drop"
+    ],
+    "cause": "Fungal infection affecting foliage.",
+    "remedy": [
+      "Remove heavily infected leaves if possible",
+      "Use recommended fungicidal management under expert advice",
+      "Improve field observation and timely response"
+    ],
+    "prevention": [
+      "Field sanitation",
+      "Avoid prolonged canopy humidity",
+      "Monitor disease-prone periods carefully"
+    ],
+    "severity_note": "Use early intervention to reduce spread."
+  }
+}

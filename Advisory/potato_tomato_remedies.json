@@ -1,0 +1,123 @@
+{
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease_name": "Early Blight",
+    "symptoms": [
+      "Brown to dark concentric spots on leaves",
+      "Yellowing around lesions",
+      "Premature leaf drop"
+    ],
+    "cause": "Fungal infection often favored by warm and humid conditions.",
+    "remedy": [
+      "Remove severely infected leaves if possible",
+      "Apply recommended fungicide as per local agricultural guidance",
+      "Avoid overhead irrigation when disease pressure is high"
+    ],
+    "prevention": [
+      "Use disease-free planting material",
+      "Maintain proper field sanitation",
+      "Follow crop rotation"
+    ],
+    "severity_note": "If spread is rapid across the field, consult a local agriculture expert immediately."
+  },
+
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "disease_name": "Late Blight",
+    "symptoms": [
+      "Water-soaked lesions on leaves",
+      "Dark brown or black patches",
+      "Rapid spread in cool and humid conditions"
+    ],
+    "cause": "Serious oomycete disease that spreads quickly under favorable moisture conditions.",
+    "remedy": [
+      "Remove infected plant material",
+      "Apply suitable fungicidal control under expert recommendation",
+      "Improve drainage and reduce leaf wetness"
+    ],
+    "prevention": [
+      "Use resistant varieties where available",
+      "Regular field monitoring",
+      "Avoid excess moisture conditions"
+    ],
+    "severity_note": "This disease can spread quickly and may require urgent field action."
+  },
+
+  "Potato___healthy": {
+    "crop": "Potato",
+    "disease_name": "Healthy Leaf",
+    "symptoms": [
+      "No major visible disease symptoms detected"
+    ],
+    "cause": "Leaf appears healthy.",
+    "remedy": [
+      "No treatment required"
+    ],
+    "prevention": [
+      "Continue regular crop monitoring",
+      "Maintain balanced irrigation and nutrition"
+    ],
+    "severity_note": "Keep observing field conditions regularly."
+  },
+
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "disease_name": "Early Blight",
+    "symptoms": [
+      "Brown lesions with concentric rings",
+      "Yellowing around infected areas",
+      "Lower leaves affected first"
+    ],
+    "cause": "Fungal disease common in warm and humid weather.",
+    "remedy": [
+      "Remove infected lower leaves",
+      "Use recommended fungicidal treatment under local advisory",
+      "Avoid prolonged leaf wetness"
+    ],
+    "prevention": [
+      "Ensure proper spacing",
+      "Practice crop sanitation",
+      "Avoid repeated moisture stress"
+    ],
+    "severity_note": "Monitor spread carefully, especially during humid periods."
+  },
+
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "disease_name": "Late Blight",
+    "symptoms": [
+      "Dark water-soaked lesions",
+      "Rapid blighting of leaves",
+      "Severe infection under cool humid weather"
+    ],
+    "cause": "Aggressive disease that spreads rapidly in favorable environmental conditions.",
+    "remedy": [
+      "Remove infected tissue",
+      "Use recommended protective treatment as advised locally",
+      "Improve airflow in crop canopy"
+    ],
+    "prevention": [
+      "Field monitoring",
+      "Use healthy seedlings",
+      "Reduce excess humidity around plants"
+    ],
+    "severity_note": "Fast-spreading disease; quick action is recommended."
+  },
+
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "disease_name": "Healthy Leaf",
+    "symptoms": [
+      "No major visible disease symptoms detected"
+    ],
+    "cause": "Leaf appears healthy.",
+    "remedy": [
+      "No treatment required"
+    ],
+    "prevention": [
+      "Continue regular crop care",
+      "Inspect plants periodically"
+    ],
+    "severity_note": "Maintain preventive crop management."
+  }
+}
